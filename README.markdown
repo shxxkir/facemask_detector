@@ -17,7 +17,11 @@ This project develops a deep learning model to detect whether a person is wearin
    git clone <repository-url>
    cd <repository-directory>
    ```
-2. Install the required dependencies:
+2. Download the dataset and place it in a folder named `Dataset`.  
+[https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data)
+
+
+3. Install the required dependencies:
    ```
    pip install tensorflow keras matplotlib numpy
    ```
